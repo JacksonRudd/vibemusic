@@ -29,31 +29,6 @@ Summary:
 2020s | ██████████ 8
 ```
 
-### Inline SVG chart
-
-<svg width="600" height="220" xmlns="http://www.w3.org/2000/svg">
-<style>text{fill:#fff}</style>
-<line x1="32" y1="188" x2="568" y2="188" stroke="#999"/>
-<line x1="32" y1="32" x2="32" y2="188" stroke="#999"/>
-<rect x="34.0" y="162.0" width="63.0" height="26.0" fill="#4C78A8"/>
-<text x="65.5" y="202" font-size="10" text-anchor="middle">1950</text>
-<rect x="101.0" y="150.9" width="63.0" height="37.1" fill="#4C78A8"/>
-<text x="132.5" y="202" font-size="10" text-anchor="middle">1960</text>
-<rect x="168.0" y="117.4" width="63.0" height="70.6" fill="#4C78A8"/>
-<text x="199.5" y="202" font-size="10" text-anchor="middle">1970</text>
-<rect x="235.0" y="165.7" width="63.0" height="22.3" fill="#4C78A8"/>
-<text x="266.5" y="202" font-size="10" text-anchor="middle">1980</text>
-<rect x="302.0" y="110.0" width="63.0" height="78.0" fill="#4C78A8"/>
-<text x="333.5" y="202" font-size="10" text-anchor="middle">1990</text>
-<rect x="369.0" y="32.0" width="63.0" height="156.0" fill="#4C78A8"/>
-<text x="400.5" y="202" font-size="10" text-anchor="middle">2000</text>
-<rect x="436.0" y="65.4" width="63.0" height="122.6" fill="#4C78A8"/>
-<text x="467.5" y="202" font-size="10" text-anchor="middle">2010</text>
-<rect x="503.0" y="158.3" width="63.0" height="29.7" fill="#4C78A8"/>
-<text x="534.5" y="202" font-size="10" text-anchor="middle">2020</text>
-<text x="32" y="24" font-size="12">Artists by Decade</text>
-</svg>
-
 ## Top artists per decade (up to 100 each)
 ### 1950s
 - Ella Fitzgerald: 5
